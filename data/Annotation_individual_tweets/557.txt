@@ -1,0 +1,24 @@
+I	B-location-C5
+-	I-location-C5
+610	I-location-C5
+east	I-location-C5
+loop	I-location-C5
+@	I-location-C5
+Market	I-location-C5
+Street	I-location-C5
+already
+under
+several
+feet
+of
+water
+,
+nearly
+covering
+the
+tops
+of
+the
+interstate
+si
+…

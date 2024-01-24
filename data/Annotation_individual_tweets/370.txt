@@ -1,0 +1,17 @@
+Drop
+Off
+Location
+:
+The	B-location-C7
+Life	I-location-C7
+Center	I-location-C7
+,
+Charlotte	B-location-C9
+,
+2435	B-location-C1
+Toomey	I-location-C1
+Ave	I-location-C1
+.
+SocksForHouston
+LCFellowship
+…

@@ -1,0 +1,24 @@
+It's
+a
+river
+on
+Grant	B-location-C5
+rd	I-location-C5
+&	I-location-C5
+Lakewood	I-location-C5
+Forest	I-location-C5
+Dr	I-location-C5
+.	I-location-C5
+right
+now
+.
+Water
+is
+knee
+deep
+downstairs
+in
+our
+apartment
+.
+…

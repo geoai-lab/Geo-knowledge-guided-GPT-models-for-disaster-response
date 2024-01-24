@@ -1,0 +1,18 @@
+2226	B-location-C1
+East	I-location-C1
+18th	I-location-C1
+Street	I-location-C1
+5
+people
+in
+the
+house
+,
+2
+are
+disabled
+.
+Contact
+number
+409-454-7488
+…

@@ -1,0 +1,16 @@
+HurricaneHarvey
+Emergency
+Rescue
+needed
+in
+Katy	B-location-C9
+,
+TX	B-location-C9
+22818	B-location-C1
+Saginaw	I-location-C1
+Point	I-location-C1
+Lane	I-location-C1
+from	I-location-C1
+Katy	I-location-C1
+TX	I-location-C1
+…

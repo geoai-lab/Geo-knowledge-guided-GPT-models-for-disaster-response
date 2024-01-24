@@ -1,0 +1,16 @@
+NEEDRESCUE
+HOUSTONFLOOD
+Pregnant
+woman
+,
+children
+&
+disabled
+father-in-law
+2121	B-location-C1
+Melissa	I-location-C1
+St	I-location-C1
+Houston	I-location-C1
+Texas	I-location-C1
+77039	I-location-C1
+…

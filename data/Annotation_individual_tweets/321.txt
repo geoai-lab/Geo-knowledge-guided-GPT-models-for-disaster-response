@@ -1,0 +1,13 @@
+Bayou
+at
+Crenshaw	B-location-C5
+Rd	I-location-C5
+and	I-location-C5
+beltway	I-location-C5
+8	I-location-C5
+in
+Pasadena	B-location-C9
+;
+News
+for
+harvey

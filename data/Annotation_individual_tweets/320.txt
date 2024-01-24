@@ -1,0 +1,25 @@
+Bastrop
+Food
+Pantry
+-
+805	B-location-C1
+Fayette	I-location-C1
+St	I-location-C1
+,
+Bastrop-Donations-Juice
+/
+Shelf
+Stable
+Milk
+/
+Cereal
+/
+Canned
+foods
+.
+Bulk
+donations
+:
+call
+512-303-0033
+harve

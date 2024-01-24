@@ -1,0 +1,27 @@
+This
+is
+a
+street
+corner
+on
+the
+feeder	B-location-C5
+road	I-location-C5
+at	I-location-C5
+the	I-location-C5
+Eastex	I-location-C5
+Frwy	I-location-C5
+in
+Houston	B-location-C9
+TX	B-location-C9
+.
+The
+water
+is
+almost
+up
+to
+the
+street
+l
+…

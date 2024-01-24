@@ -1,0 +1,17 @@
+Harvey
+ANIMALS
+PETS
+-
+TAMU
+veterinary
+team
+locations
+:
+Rockport
+Aransas
+Co
+Animal
+361-790-0151
+872	B-location-C1
+Airport	I-location-C1
+Rd	I-location-C1

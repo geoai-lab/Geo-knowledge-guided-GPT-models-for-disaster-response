@@ -1,0 +1,22 @@
+URGENT
+DOG
+&
+CAT
+RESCUE
+NEEDED
+-
+BOATS
+>
+413	B-location-C1
+Speights	I-location-C1
+Loop	I-location-C1
+Rd	I-location-C1
+Hankamer	I-location-C1
+,	I-location-C1
+TX	I-location-C1
+-
+TALL
+TAILS
+ANIMAL
+RESCUE
+HARVEY

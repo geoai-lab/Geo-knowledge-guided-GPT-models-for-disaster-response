@@ -1,0 +1,27 @@
+8135	B-location-C1
+Hall	I-location-C1
+Lake	I-location-C1
+Dr	I-location-C1
+,	I-location-C1
+Houston	I-location-C1
+TX	I-location-C1
+77075	I-location-C1
+PLS
+HELP
+IF
+ANYONE
+NEAR
+THIS
+AREA
+MY
+FRIEND
+HG
+NEEDS
+HELP
+!
+!
+!
+16People
+need
+he
+…

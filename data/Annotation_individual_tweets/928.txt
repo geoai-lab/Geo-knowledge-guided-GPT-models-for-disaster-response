@@ -1,0 +1,23 @@
+Rocky
+Juarez
+(
+)
+Supply
+&
+Donation
+Drive
+today
+at
+1524	B-location-C1
+Freeman	I-location-C1
+St	I-location-C1
+,	I-location-C1
+77009	I-location-C1
+from
+11:30
+a
+-3:30
+pm
+.
+Harvey
+…

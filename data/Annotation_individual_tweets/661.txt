@@ -1,0 +1,19 @@
+Paddling
+for
+their
+lives
+at
+the
+corner
+of
+Braesmont	B-location-C5
+Dr	I-location-C5
+.	I-location-C5
+&	I-location-C5
+S	I-location-C5
+.	I-location-C5
+Braeswood	I-location-C5
+Blvd	I-location-C5
+.	I-location-C5
+houstonflood
+sxsw

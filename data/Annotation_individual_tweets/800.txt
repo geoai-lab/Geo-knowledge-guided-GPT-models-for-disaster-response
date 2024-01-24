@@ -1,0 +1,19 @@
+Family
+with
+1
+year
+old
+needs
+boat
+rescue
+:
+550	B-location-C1
+Normandy	I-location-C1
+Rd	I-location-C1
+1620	I-location-C1
+77015	I-location-C1
+harveyrescue
+harveysos
+HurricaneHarvey
+houston	B-location-C9
+texax	B-location-C9

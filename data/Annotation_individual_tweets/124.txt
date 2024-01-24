@@ -1,0 +1,19 @@
+ houstonflood
+ANYONE
+gets
+info
+on
+extent
+of
+buffalo	B-location-C6
+bayou	I-location-C6
+flooding
+near
+Allen	B-location-C11
+Pkwy	I-location-C11
+and	I-location-C11
+Studemont	I-location-C11
+St	I-location-C11
+&	I-location-C11
+Memorial	I-location-C11
+Ct	I-location-C11

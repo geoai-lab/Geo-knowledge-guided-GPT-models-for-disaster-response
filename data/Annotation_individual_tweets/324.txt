@@ -1,0 +1,20 @@
+Before
+&
+after
+SamHoustonPakway	B-location-C5
+&	I-location-C5
+Aldine	I-location-C5
+Westfield	I-location-C5
+Rd	I-location-C5
+.
+1st
+pic
+:
+G-Earth
+2nd
+pic
+:
+video
+still
+from
+…

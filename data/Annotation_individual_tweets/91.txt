@@ -1,0 +1,33 @@
+9:00
+AM
+update
+from
+Hogan	B-location-C5
+Street	I-location-C5
+over	I-location-C5
+White	I-location-C5
+Oak	I-location-C5
+Bayou	I-location-C5
+,
+I	B-location-C3
+-	I-location-C3
+45	I-location-C3
+,
+I	B-location-C3
+-	I-location-C3
+10	I-location-C3
+:
+water
+level
+down
+about
+4
+'
+.
+Good
+news
+w
+/
+more
+rain
+…

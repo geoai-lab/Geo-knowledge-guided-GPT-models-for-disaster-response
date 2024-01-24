@@ -1,0 +1,17 @@
+houstonflood
+HELP
+Papa
+stranded
+in
+home
+.
+Water
+rising
+above
+waist
+.
+8111	B-location-C1
+Woodlyn	I-location-C1
+Rd	I-location-C1
+.	I-location-C1
+7702	I-location-C1

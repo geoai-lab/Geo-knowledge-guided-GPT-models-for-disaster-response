@@ -1,0 +1,21 @@
+rescue
+harvey
+Please
+send
+rescue
+to
+church	B-location-C8
+Mt	I-location-C8
+.	I-location-C8
+Canaan	I-location-C8
+on
+N	B-location-C5
+.	I-location-C5
+Wayside	I-location-C5
+and	I-location-C5
+Ley	I-location-C5
+Road	I-location-C5
+...
+PLEASE
+RE
+POST

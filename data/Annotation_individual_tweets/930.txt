@@ -1,0 +1,22 @@
+Rummel	B-location-C5
+Creek	I-location-C5
+@	I-location-C5
+Memorial	I-location-C5
+Drive	I-location-C5
+.
+2
+blks
+from
+our
+home
+.
+10
+am
+,
+can't
+handle
+much
+more
+rain
+.
+HurricaneHarvey

@@ -1,0 +1,29 @@
+Kempner	B-location-C8
+HS	I-location-C8
+will
+be
+a
+shelter
+at
+11am
+.
+Baby
+clothes
+,
+crates
+,
+toys
+,
+pillows
+&
+blankets
+are
+needed
+.
+14777	B-location-C1
+Voss	I-location-C1
+Rd	I-location-C1
+.	I-location-C1
+sugarland	I-location-C1
+houston	I-location-C1
+harve

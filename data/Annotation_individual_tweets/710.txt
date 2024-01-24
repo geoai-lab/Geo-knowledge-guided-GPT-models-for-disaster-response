@@ -1,0 +1,31 @@
+Port
+O'Connor
+Hardware
+,
+1738	B-location-C1
+Adams	I-location-C1
+Ave	I-location-C1
+.	I-location-C1
+,
+is
+selling
+plywood
+,
+batteries
+,
+ect
+.
+Employee
+:
+"
+It's
+pretty
+much
+first
+come
+,
+first
+serve
+.
+"
+Harve

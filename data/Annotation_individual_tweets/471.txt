@@ -1,0 +1,25 @@
+Gas
+is
+apparently
+going
+up
+this
+week
+in
+San	B-location-C9
+Antonio	I-location-C9
+because
+of
+HurricaneHarvey
+,
+it's
+still
+90.9
+at
+the
+co-op
+on
+17th	B-location-C5
+&	I-location-C5
+36th	I-location-C5
+ave	I-location-C5

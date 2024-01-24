@@ -1,0 +1,9 @@
+Waist
+deep
+at
+Greenhouse	B-location-C5
+Rd	I-location-C5
+@	I-location-C5
+Saums	I-location-C5
+katy	B-location-C9
+HurricaneHarvey

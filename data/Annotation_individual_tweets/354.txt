@@ -1,0 +1,18 @@
+Closed
+due
+to
+train
+derailment
+in
+Harvey
+on
+Destrehan	B-location-C11
+Ave	I-location-C11
+between	I-location-C11
+River	I-location-C11
+Rd	I-location-C11
+and	I-location-C11
+4th	I-location-C11
+St	I-location-C11
+traffic
+NOLA

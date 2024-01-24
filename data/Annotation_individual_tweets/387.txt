@@ -1,0 +1,23 @@
+Customers
+affected
+by
+HurricaneHarvey
+–
+a
+mobile
+claim
+office
+is
+at
+8002	B-location-C1
+North	I-location-C1
+Navarro	I-location-C1
+St	I-location-C1
+,	I-location-C1
+Victoria	I-location-C1
+,	I-location-C1
+TX	I-location-C1
+.
+More
+info
+.

@@ -1,0 +1,23 @@
+HELP
+IS
+NEEDED
+IN
+PORT	B-location-C9
+ARTHUR	I-location-C9
+ASAP
+!
+!
+WATER
+RISING
+FAST
+820	B-location-C1
+smith	I-location-C1
+street	I-location-C1
+,	I-location-C1
+port	I-location-C1
+Arthur	I-location-C1
+Texas	I-location-C1
+,	I-location-C1
+77640	I-location-C1
+HarveyFlood
+…

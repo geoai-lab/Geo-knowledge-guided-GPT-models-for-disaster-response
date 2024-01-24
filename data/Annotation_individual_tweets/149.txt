@@ -1,0 +1,16 @@
+HurricaneHarvey
+Texaco
+on
+Frankford	B-location-C5
+Rd	I-location-C5
+.	I-location-C5
+&	I-location-C5
+North	I-location-C5
+Dallas	I-location-C5
+Tollway	I-location-C5
+.
+People
+are
+needing
+help
+…

@@ -1,0 +1,12 @@
+Our
+Houston
+store
+at
+12601	B-location-C1
+Westheimer	I-location-C1
+Rd	I-location-C1
+is
+now
+open
+!
+Visit

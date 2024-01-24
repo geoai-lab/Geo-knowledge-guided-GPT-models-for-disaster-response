@@ -1,0 +1,26 @@
+We're
+open
+until
+2
+pm
+today
+and
+again
+from
+5-7
+pm
+,
+for
+people
+who
+are
+need
+of
+supplies
+.
+2215	B-location-C1
+Nall	I-location-C1
+St	I-location-C1
+.	I-location-C1
+PortNeches	I-location-C1
+HurricaneHarve

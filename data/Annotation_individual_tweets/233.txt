@@ -1,0 +1,19 @@
+Plz
+retweet
+friend's
+Mom
+needs
+rescue
+water
+is
+to
+her
+knees
+&
+rising
+she's
+alone
+2815	B-location-C1
+33rd	I-location-C1
+street	I-location-C1
+…

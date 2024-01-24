@@ -1,0 +1,18 @@
+hurricaneHarvey
+drop
+off
+for
+the
+Texas
+flood
+victims
+!
+We're
+taking
+ALL
+donations
+At
+1955	B-location-C1
+Monier	I-location-C1
+Avenue	I-location-C1
+…

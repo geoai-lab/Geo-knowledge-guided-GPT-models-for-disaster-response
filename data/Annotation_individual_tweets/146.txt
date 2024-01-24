@@ -1,0 +1,20 @@
+.
+is
+currently
+accepting
+runoff
+supply
+/
+clothing
+donations
+&
+volunteers
+.
+Come
+by
+!
+2101	B-location-C1
+Polk	I-location-C1
+St	I-location-C1
+.
+hurricaneharve

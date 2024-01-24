@@ -1,0 +1,22 @@
+USCG
+13098	B-location-C1
+Seaberg	I-location-C1
+Dr	I-location-C1
+Crosby	I-location-C1
+,	I-location-C1
+Tx	I-location-C1
+77532	I-location-C1
+HurricaneHarvey
+Stuck
+surrounded
+by
+bayou
+and
+house
+is
+being
+swallowed
+up
+!
+!
+…

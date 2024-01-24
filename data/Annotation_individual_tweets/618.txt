@@ -1,0 +1,28 @@
+Lost
+!
+Harvey
+IL
+(
+159	B-location-C1
+Park	I-location-C1
+Ave	I-location-C1
+)
+Precious
+-
+Female
+Pit
+Bull
+.
+Black
+/
+White
+.
+Call
+708-351-8367
+.
+Friendly
+.
+Cook	B-location-C9
+County	I-location-C9
+.
+…

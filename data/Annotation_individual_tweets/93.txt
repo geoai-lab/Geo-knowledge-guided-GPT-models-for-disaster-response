@@ -1,0 +1,24 @@
+Christie
+Reed
+and
+9
+mo
+.
+Old
+child
+4121	B-location-C1
+Turtle	I-location-C1
+Creek	I-location-C1
+Dr	I-location-C1
+Apt	I-location-C1
+B31	I-location-C1
+Port	I-location-C1
+Arthur	I-location-C1
+,	I-location-C1
+TX	I-location-C1
+(
+Roof
+collapsing
+)
+Harvey2017
+Harve

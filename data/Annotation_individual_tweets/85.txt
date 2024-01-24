@@ -1,0 +1,27 @@
+4918	B-location-C1
+Austin	I-location-C1
+Ave	I-location-C1
+.	I-location-C1
+Port	I-location-C1
+Arthur	I-location-C1
+,	I-location-C1
+Tx	I-location-C1
+I
+have
+a
+Aunt
+and
+uncle
+stuck
+in
+there
+house
+.
+Help
+please
+.
+Harvey
+HurricaneHarvey
+Thanx
+in
+advance

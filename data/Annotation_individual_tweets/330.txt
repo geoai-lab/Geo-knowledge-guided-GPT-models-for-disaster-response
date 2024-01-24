@@ -1,0 +1,15 @@
+Bring
+Harvey
+relief
+donations
+for
+HISD
+students
+to
+Delmar	B-location-C7
+Fieldhouse	I-location-C7
+,
+2020	B-location-C1
+Mangum	I-location-C1
+Rd	I-location-C1
+.

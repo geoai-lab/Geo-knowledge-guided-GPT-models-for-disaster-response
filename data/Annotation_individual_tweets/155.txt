@@ -1,0 +1,23 @@
+12
+Y
+/
+O
+BOY
+NEEDs
+RESCUED
+!
+8100	B-location-C1
+Cypresswood	I-location-C1
+Dr	I-location-C1
+Spring	I-location-C1
+TX	I-location-C1
+77379	I-location-C1
+They
+are
+trapped
+on
+second
+story
+!
+houstonflood
+…

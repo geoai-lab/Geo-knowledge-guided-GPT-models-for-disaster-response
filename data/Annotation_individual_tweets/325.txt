@@ -1,0 +1,27 @@
+Before
+/
+after
+:
+I	B-location-C5
+-	I-location-C5
+69	I-location-C5
+SW	I-location-C5
+at	I-location-C5
+McGowan	I-location-C5
+Street	I-location-C5
+in
+Houston	B-location-C9
+,
+TX	B-location-C9
+,
+looks
+like
+a
+river
+right
+now
+.
+(
+Google
+Earth
+)

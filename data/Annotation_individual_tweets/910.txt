@@ -1,0 +1,17 @@
+Rescue
+:
+26206	B-location-C1
+longenbaugh	I-location-C1
+rd	I-location-C1
+Katy	I-location-C1
+Texas	I-location-C1
+77493	I-location-C1
+2
+adults
+on
+roof
+since
+yesterday
+.
+Harvey
+hel

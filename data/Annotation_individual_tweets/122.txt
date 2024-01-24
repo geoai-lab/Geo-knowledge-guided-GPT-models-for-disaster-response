@@ -1,0 +1,19 @@
+houstonflood
+hurricaneharvey
+21719	B-location-C1
+grand	I-location-C1
+hollow	I-location-C1
+lane	I-location-C1
+,	I-location-C1
+katy	I-location-C1
+,	I-location-C1
+tx	I-location-C1
+&	I-location-C1
+77450	I-location-C1
+.
+Grand	B-location-C9
+lakes	I-location-C9
+,
+katy	B-location-C9
+needs
+rescue

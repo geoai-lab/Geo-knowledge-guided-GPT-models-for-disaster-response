@@ -1,0 +1,21 @@
+New
+Houston
+Harvey
+shelter
+-
+Bull	B-location-C7
+Sallas	I-location-C7
+Park	I-location-C7
+,
+21679	B-location-C1
+McCleskey	I-location-C1
+Road	I-location-C1
+,	I-location-C1
+New	I-location-C1
+Caney	I-location-C1
+,	I-location-C1
+TX	I-location-C1
+77357	I-location-C1
+per
+Montgomery
+Count

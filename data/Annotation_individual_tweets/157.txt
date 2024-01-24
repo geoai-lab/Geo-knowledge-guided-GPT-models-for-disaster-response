@@ -1,0 +1,17 @@
+Emergency
+on
+12231	B-location-C1
+Kings	I-location-C1
+path	I-location-C1
+lane	I-location-C1
+Houston	I-location-C1
+,	I-location-C1
+Tx	I-location-C1
+77044	I-location-C1
+please
+repost
+repost
+repost
+repost
+hurricaneharvey
+…

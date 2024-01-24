@@ -1,0 +1,17 @@
+Pet-Friendly
+Harvey
+Shelter
+!
+TheMET	B-location-C8
+Church	I-location-C8
+13000	B-location-C1
+Jones	I-location-C1
+Rd	I-location-C1
+.	I-location-C1
+Houston	I-location-C1
+77070	I-location-C1
+.
+Thank
+U
+&
+!

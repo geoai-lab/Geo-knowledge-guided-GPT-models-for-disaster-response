@@ -1,0 +1,23 @@
+Willow
+Curry
+and
+her
+2
+aunts
+have
+been
+waiting
+for
+hours
+with
+no
+relief
+.
+8130	B-location-C1
+Snowden	I-location-C1
+St	I-location-C1
+Houston	I-location-C1
+TX	I-location-C1
+77028	I-location-C1
+harveyhouston
+HurricaneHarve

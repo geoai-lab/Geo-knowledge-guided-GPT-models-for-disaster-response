@@ -1,0 +1,25 @@
+HurricaneHarvey
+Anyone
+doing
+high
+water
+rescues
+in
+the
+Pasadena	B-location-C10
+/	I-location-C10
+Deer	I-location-C10
+Park	I-location-C10
+area
+?
+My
+daughter
+has
+been
+stranded
+in
+a
+parking
+lot
+all
+night

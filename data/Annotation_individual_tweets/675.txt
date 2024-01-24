@@ -1,0 +1,21 @@
+If
+you're
+looking
+for
+a
+place
+to
+drop
+off
+HurricaneHarvey
+donations
+,
+we're
+at
+3003	B-location-C1
+15th	I-location-C1
+St	I-location-C1
+.	I-location-C1
+on
+campus
+.

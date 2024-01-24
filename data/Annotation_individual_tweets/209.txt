@@ -1,0 +1,15 @@
+at
+3222	B-location-C1
+Ivy	I-location-C1
+Falls	I-location-C1
+Dr	I-location-C1
+.	I-location-C1
+by
+Cypress	B-location-C6
+Creek	I-location-C6
+is
+in
+need
+of
+help
+HurricaneHarvey

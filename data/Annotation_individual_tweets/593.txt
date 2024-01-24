@@ -1,0 +1,15 @@
+C11Pics
+showing
+the
+current
+Kelly	B-location-C11
+St	I-location-C11
+.	I-location-C11
+between	I-location-C11
+Gold	I-location-C11
+St	I-location-C11
+.	I-location-C11
+and	I-location-C11
+Elysian	I-location-C11
+St	I-location-C11
+.	I-location-C11

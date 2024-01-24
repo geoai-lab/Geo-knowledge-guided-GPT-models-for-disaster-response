@@ -1,0 +1,25 @@
+Lots
+of
+volunteers
+here
+to
+train
+today
+!
+There's
+still
+time
+to
+join
+us
+at
+3642	B-location-C1
+E	I-location-C1
+Houston	I-location-C1
+St	I-location-C1
+to
+register
+as
+a
+shelter
+…

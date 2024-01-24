@@ -1,0 +1,22 @@
+it's
+been
+24
+hrs
+.
+since
+7315	B-location-C1
+Brompton	I-location-C1
+St	I-location-C1
+,	I-location-C1
+Houston	I-location-C1
+,
+been
+without
+power
+.
+Please
+do
+something
+.
+Harvey
+Houstonfloo

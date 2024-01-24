@@ -1,0 +1,17 @@
+AFTER
+\
+VIDEO
+LONE
+STAR
+LEGAL
+AID
+1415	B-location-C1
+Fannin	I-location-C1
+St	I-location-C1
+,	I-location-C1
+Houston	I-location-C1
+,	I-location-C1
+TX	I-location-C1
+houstonfloods
+houstonflooding
+HarveyStorm

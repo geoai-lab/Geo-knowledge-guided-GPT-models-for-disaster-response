@@ -1,0 +1,15 @@
+Downtown
+Houston	B-location-C9
+at
+Spaghetti
+Warehouse
+.
+901	B-location-C1
+Commerce	I-location-C1
+Street	I-location-C1
+Houston	I-location-C1
+,	I-location-C1
+Texas	I-location-C1
+77002	I-location-C1
+HurricaneHarvery2017
+…

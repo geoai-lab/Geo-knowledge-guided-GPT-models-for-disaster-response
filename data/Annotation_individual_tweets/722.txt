@@ -1,0 +1,20 @@
+morning
+update
+:
+water
+rising
+at
+Sterret	B-location-C5
+&	I-location-C5
+William	I-location-C5
+St	I-location-C5
+.
+Major
+flooding
+,
+neighbors
+helping
+out
+.
+Harvey
+…

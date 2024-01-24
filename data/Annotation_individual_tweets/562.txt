@@ -1,0 +1,19 @@
+It's
+not
+just
+evacuees
+needing
+assistance
+.
+Let's
+not
+forget
+our
+officers
+.
+1600	B-location-C1
+State	I-location-C1
+Street	I-location-C1
+.
+Harvey
+…

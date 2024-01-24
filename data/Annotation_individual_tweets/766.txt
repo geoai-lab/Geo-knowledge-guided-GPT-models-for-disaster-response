@@ -1,0 +1,23 @@
+come
+get
+a
+workout
+in
+Flex
+City
+Fitness
+!
+414	B-location-C1
+Curtis	I-location-C1
+Ave	I-location-C1
+,	I-location-C1
+Pasadena	I-location-C1
+TX	I-location-C1
+ALL
+day
+passes
+DONATED
+accepting
+clothes
+diapers
+…

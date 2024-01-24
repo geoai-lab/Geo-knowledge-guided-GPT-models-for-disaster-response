@@ -1,0 +1,25 @@
+A
+short
+video
+of
+the
+aftermath
+of
+HurricaneHarvey
+in
+Port	B-location-C9
+Aransas	I-location-C9
+on
+Cotter	B-location-C11
+Ave	I-location-C11
+.	I-location-C11
+from	I-location-C11
+Alister	I-location-C11
+to	I-location-C11
+Station	I-location-C11
+St	I-location-C11
+.	I-location-C11
+,
+9/3
+/
+…

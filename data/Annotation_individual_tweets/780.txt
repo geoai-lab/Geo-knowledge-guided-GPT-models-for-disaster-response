@@ -1,0 +1,19 @@
+We're
+teaming
+up
+w
+/
+and
+collecting
+donations
+for
+HoustonFlood
+at
+1122	B-location-C1
+E	I-location-C1
+51st	I-location-C1
+St	I-location-C1
+until
+7p
+:
+…

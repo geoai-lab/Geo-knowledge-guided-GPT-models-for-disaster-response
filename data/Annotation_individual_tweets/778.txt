@@ -1,0 +1,19 @@
+We
+made
+it
+!
+Our
+service
+will
+be
+take
+out
+only
+6002	B-location-C1
+Washington	I-location-C1
+Ave	I-location-C1
+77007	I-location-C1
+832.200.1474
+houston	B-location-C9
+hurricaneharvey
+…

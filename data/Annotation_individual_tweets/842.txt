@@ -1,0 +1,18 @@
+HoustonFlood2017
+houstonflooding
+PrayForHouston
+woman
+and
+2
+children
+need
+rescuing
+!
+12231	B-location-C1
+kings	I-location-C1
+path	I-location-C1
+lane	I-location-C1
+Houston	I-location-C1
+TX	I-location-C1
+77044	I-location-C1
+PrayforTexa

@@ -1,0 +1,17 @@
+Our
+fulfillment
+team
+is
+at
+temporary
+shelter
+7711	B-location-C1
+Burnet	I-location-C1
+Rd	I-location-C1
+.
+Supplies
+&
+volunteers
+needed
+!
+…

@@ -1,0 +1,25 @@
+WYLIE
+FRIENDS
+:
+Donations
+can
+be
+made
+at
+205	B-location-C1
+Windo	I-location-C1
+Circle	I-location-C1
+Suite	I-location-C1
+200	I-location-C1
+,	I-location-C1
+Wylie	I-location-C1
+,	I-location-C1
+TX	I-location-C1
+75098	I-location-C1
+for
+families
+affected
+by
+HurricaneHarvey
+until
+Sunday

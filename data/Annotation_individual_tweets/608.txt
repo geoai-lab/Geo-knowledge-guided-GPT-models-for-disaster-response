@@ -1,0 +1,15 @@
+Kroger
+at
+grand	B-location-C5
+parkway	I-location-C5
+/	I-location-C5
+mason	I-location-C5
+rd	I-location-C5
+,
+Richmond	B-location-C9
+..
+shelves
+are
+totally
+empty
+HarveyStorm

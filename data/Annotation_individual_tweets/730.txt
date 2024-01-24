@@ -1,0 +1,16 @@
+WATER
+AND
+ICE
+AT
+THIS
+LOCATION
+.
+Starts
+at
+10am
+.
+101	B-location-C1
+E	I-location-C1
+Goodnight	I-location-C1
+Ave	I-location-C1
+HURRICANEHARVEY

@@ -1,0 +1,17 @@
+I've
+been
+informed
+has
+set
+up
+a
+shelter
+:
+12903	B-location-C1
+Jones	I-location-C1
+Rd	I-location-C1
+.
+Pets
+welcome
+HD126
+Harve

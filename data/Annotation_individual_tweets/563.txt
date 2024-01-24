@@ -1,0 +1,34 @@
+I
+'
+m
+worried
+about
+friends
+in
+Corpus	B-location-C10
+/	I-location-C10
+Port	I-location-C10
+A	I-location-C10
+as
+it
+looks
+like
+they
+'
+re
+square
+in
+the
+cone
+.
+Harvey
+may
+be
+a
+Cat
+3
+when
+it
+hits
+and
+sits

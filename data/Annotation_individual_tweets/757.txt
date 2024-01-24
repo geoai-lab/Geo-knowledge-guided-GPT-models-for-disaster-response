@@ -1,0 +1,26 @@
+We're
+HereToHelp
+w
+/
+HurricaneHarvey
+claims
+in
+Corpus	B-location-C9
+Christi	I-location-C9
+8am
+–
+6:00
+pm
+CST
+:
+5041	B-location-C1
+S	I-location-C1
+.	I-location-C1
+Padre	I-location-C1
+Island	I-location-C1
+Drive	I-location-C1
+,	I-location-C1
+Corpus	I-location-C1
+Christi	I-location-C1
+,	I-location-C1
+Texa	I-location-C1

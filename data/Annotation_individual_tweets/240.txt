@@ -1,0 +1,26 @@
+temp
+shelter
+7711	B-location-C1
+Burnet	I-location-C1
+Rd	I-location-C1
+.
+Truckloads
+of
+pets
+.
+Share
+!
+Need
+Volunteers
+:
+walk
+dogs
+,
+feed
+,
+water
+,
+clean
+kennels
+.
+harve

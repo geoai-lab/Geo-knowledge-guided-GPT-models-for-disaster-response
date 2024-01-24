@@ -1,0 +1,18 @@
+ELDERLY
+COUPLE
+WITH
+WATER
+UP
+TO
+THEIR
+NECKS
+,
+NEED
+HELP
+,
+7605	B-location-C1
+9th	I-location-C1
+Ave	I-location-C1
+,	I-location-C1
+PortArthur	I-location-C1
+HarveyStorm

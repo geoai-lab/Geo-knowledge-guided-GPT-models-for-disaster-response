@@ -1,0 +1,16 @@
+Heavy
+Flooding
+at
+Highway	B-location-C5
+90	I-location-C5
+&	I-location-C5
+Pin	I-location-C5
+Oak	I-location-C5
+Road	I-location-C5
+and
+Hwy	B-location-C5
+90	I-location-C5
+&	I-location-C5
+Avenue	I-location-C5
+D	I-location-C5
+HurricaneHarvey

@@ -1,0 +1,22 @@
+Lanier	B-location-C8
+High	I-location-C8
+School	I-location-C8
+,
+located
+at
+1201	B-location-C1
+Payton	I-location-C1
+Gin	I-location-C1
+Rd	I-location-C1
+,
+is
+currently
+taking
+in
+people
++
+animals
+.
+harvey
+atxshelter
+TCAler

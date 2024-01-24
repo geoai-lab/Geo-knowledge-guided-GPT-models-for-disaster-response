@@ -1,0 +1,26 @@
+Julia
+Chatam
+is
+trapped
+at
+her
+residence
+at
+1300	B-location-C1
+Joe	I-location-C1
+Louis	I-location-C1
+Avenue	I-location-C1
+,	I-location-C1
+Apt	I-location-C1
+3003	I-location-C1
+in	I-location-C1
+Port	I-location-C1
+Arthur	I-location-C1
+,	I-location-C1
+Texas	I-location-C1
+.
+Please
+send
+help
+.
+HurricaneHarvey

@@ -1,0 +1,19 @@
+3020	B-location-C1
+Shaver	I-location-C1
+St	I-location-C1
+77502	I-location-C1
+Family
+Furniture
+Is
+Givin
+Away
+Free
+Food
+For
+Those
+Affect
+By
+HurricaneHarvey
+RT
+&
+SPREAD

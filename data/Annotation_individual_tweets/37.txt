@@ -1,0 +1,23 @@
+AGGIE
+Dads
+and
+Grandads
+helping
+out
+.
+Donate
+at
+Berry	B-location-C7
+Center	I-location-C7
+till
+3pm
+!
+!
+Barker	B-location-C5
+Cypress	I-location-C5
+Rd	I-location-C5
+and	I-location-C5
+West	I-location-C5
+Rd	I-location-C5
+.
+…

@@ -1,0 +1,27 @@
+Right
+now
+,
+you
+can
+help
+Harvey
+victims
+by
+coming
+to
+1800	B-location-C1
+N	I-location-C1
+.	I-location-C1
+Lamar	I-location-C1
+St	I-location-C1
+.	I-location-C1
+and
+donating
+these
+items
+!
+We
+are
+here
+until
+…

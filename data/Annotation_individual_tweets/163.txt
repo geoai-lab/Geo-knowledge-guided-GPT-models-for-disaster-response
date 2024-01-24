@@ -1,0 +1,23 @@
+2
+.
+Please
+start
+UNUSED
+GIFT
+CARD
+initiatives
+.
+Send
+to
+:
+Bayou
+Animal
+Services
+3120	B-location-C1
+Deats	I-location-C1
+Rd	I-location-C1
+,	I-location-C1
+Dickinson	I-location-C1
+,	I-location-C1
+Texas	I-location-C1
+...

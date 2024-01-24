@@ -1,0 +1,25 @@
+9013	B-location-C1
+McGallion	I-location-C1
+Rd	I-location-C1
+Houston	I-location-C1
+,	I-location-C1
+TX	I-location-C1
+77022	I-location-C1
+Starting
+at
+10am
+ALL
+WEEK
+All
+baby
+products
+,
+food
+,
+clothing
+,
+water
+,
+and
+cleanin
+…

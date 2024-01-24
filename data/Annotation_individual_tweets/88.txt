@@ -1,0 +1,17 @@
+8305	B-location-C1
+talton	I-location-C1
+street	I-location-C1
+houston	I-location-C1
+tx	I-location-C1
+-
+-
+did
+they
+get
+rescued
+?
+HoustonFloods
+news
+kid
+on
+ventilator

@@ -1,0 +1,19 @@
+TODAY
+!
+Drop
+off
+your
+donations
+for
+houston
+2-4
+p
+
+Alley
+behind
+834	B-location-C1
+N	I-location-C1
+26th	I-location-C1
+St	I-location-C1
+hurricaneharvey
+…

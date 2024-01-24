@@ -1,0 +1,27 @@
+Hats
+off
+to
+the
+71st	B-location-C2
+St	I-location-C2
+residents
+(
+Ridge	B-location-C5
+Blvd	I-location-C5
+&	I-location-C5
+3rd	I-location-C5
+Ave	I-location-C5
+)
+for
+organizing
+a
+bake
+sale
+to
+raise
+$
+for
+the
+victims
+of
+…

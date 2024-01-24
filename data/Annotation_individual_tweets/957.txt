@@ -1,0 +1,15 @@
+Skip
+houstontraffic
+,
+stop
+at
+4
+MARGARITAS
+!
+419	B-location-C1
+Travis	I-location-C1
+St	I-location-C1
+houston	I-location-C1
+marketsquare	B-location-C7
+downtownhouston
+…

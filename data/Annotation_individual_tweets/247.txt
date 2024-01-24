@@ -1,0 +1,19 @@
+HurricaneHarvey
+family
+needs
+rescuing
+at
+11800	B-location-C1
+Grant	I-location-C1
+Rd	I-location-C1
+.	I-location-C1
+Apt	I-location-C1
+.	I-location-C1
+1009	I-location-C1
+.	I-location-C1
+Cypress	I-location-C1
+,	I-location-C1
+Texas	I-location-C1
+77429	I-location-C1
+
+@USC

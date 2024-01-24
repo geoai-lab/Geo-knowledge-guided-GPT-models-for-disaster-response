@@ -1,0 +1,22 @@
+Just
+stumbled
+across
+a
+Harvey
+benefit
+yard
+sale
+.
+314	B-location-C1
+Harvard	I-location-C1
+St	I-location-C1
+Cambridge	I-location-C1
+.
+Will
+be
+back
+next
+Sat
+.
+1
+/

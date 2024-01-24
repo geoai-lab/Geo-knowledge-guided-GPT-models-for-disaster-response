@@ -1,0 +1,21 @@
+Now
+taking
+donations
+for
+Harvey
+relief
+!
+600	B-location-C1
+Congress	I-location-C1
+Avenue	I-location-C1
+14th	I-location-C1
+floor	I-location-C1
+,	I-location-C1
+Austin	I-location-C1
+TX	I-location-C1
+78701	I-location-C1
+.
+Thanks
+all
+!
+…

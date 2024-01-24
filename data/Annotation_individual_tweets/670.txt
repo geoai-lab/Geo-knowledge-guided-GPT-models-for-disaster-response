@@ -1,0 +1,15 @@
+OPEN
+SHELTER
+:
+Church
+Project
+,
+295	B-location-C1
+Sawdust	I-location-C1
+Rd	I-location-C1
+.	I-location-C1
+,	I-location-C1
+Spring	I-location-C1
+,	I-location-C1
+77380	I-location-C1
+Harvey

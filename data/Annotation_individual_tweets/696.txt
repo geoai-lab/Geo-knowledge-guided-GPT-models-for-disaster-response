@@ -1,0 +1,23 @@
+Rain
+gauge
+in
+Mary's	B-location-C5
+Creek	I-location-C5
+at	I-location-C5
+Winding	I-location-C5
+Road	I-location-C5
+(
+southeast
+of
+Houston	B-location-C9
+)
+reported
+49.2
+"
+.
+Harvey
+now
+2nd
+wettest
+tropical
+…

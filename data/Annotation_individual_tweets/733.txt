@@ -1,0 +1,17 @@
+We
+are
+helping
+to
+collect
+HurricaneHarvey
+items
+with
+;
+please
+deliver
+to
+1500	B-location-C1
+Old	I-location-C1
+Leonard	I-location-C1
+Avenue	I-location-C1
+…
