@@ -6,12 +6,12 @@ in
 his
 truck
 on
-I	B-location-C3
--	I-location-C3
-45	I-location-C3
-between
-Cypress	B-location-C4
-Hill	B-location-C4
-&
-Huffmeister	B-location-C4
-exits	B-location-C4
+I	B-location-C11
+-	I-location-C11
+45	I-location-C11
+between	I-location-C11
+Cypress	I-location-C11
+Hill	I-location-C11
+&	I-location-C11
+Huffmeister	I-location-C11
+exits	I-location-C11
